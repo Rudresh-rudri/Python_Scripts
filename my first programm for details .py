@@ -1,0 +1,12 @@
+identity=input("identity")
+print("rudresh_name is "+identity)
+place=input("place")
+print("place"+place)
+time=input("time")
+print("time"+time)
+mobile_number=input("mobile number:")
+print("mobile_number:"+mobile_number)
+rudresh_age=input("age")
+print("age:"+rudresh_age)
+
+print("name of the boy is "+identity+"place where is born"+place+"time of birth "+time+"if you want to reach him mobile_number:"+mobile_number+"age is :"+rudresh_age)
